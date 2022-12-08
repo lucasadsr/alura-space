@@ -29,7 +29,8 @@ export default function Rodape() {
                 <img src={instagram} alt="ícone do instagram" />
                 </a>
             </div>
-            <p>Desenvolvido por Alura</p>
+            <p>Desenvolvido por <a target='_blank' rel='noreferrer' href='https://github.com/lucasadsr' className={styles}><em>Lucas Araújo</em></a>
+            </p>
         </footer>
     )
 }

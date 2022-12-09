@@ -4,7 +4,7 @@
 </h1>
 
 
-<h3 align="center">O Alura Space é uma galeria online de fotos do espaço feito durante o curso "React com JavaScript da alura: lidando com arquivos estáticos", com a funcionalidade de filtrar as imagens por suas tags.</h3>
+<h3 align="center">O Alura Space é uma galeria online de fotos do espaço feito durante o curso "React com JavaScript: lidando com arquivos estáticos", com a funcionalidade de filtrar as imagens por suas tags.</h3>
 
 <hr></hr>
 <h2>Techs</h2>
